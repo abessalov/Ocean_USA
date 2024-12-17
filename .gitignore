@@ -1,0 +1,9 @@
+.env
+_old
+_develop
+.ipynb_checkpoints/
+*__pycache__*
+data
+presentation
+preds
+ocean_submission
